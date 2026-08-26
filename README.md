@@ -18,7 +18,7 @@ a RAG pipeline queries an external authoritative knowledge base (like a database
 to find relevant facts matching a user's prompt. 
 It then passes those facts directly into the LLM as context to generate an accurate, updated answer.
 
-![Simple RAG Pipeline Diagram](/assets/simple-rag-pipeline.png)
+![Simple RAG Pipeline Diagram](/assets/rag-pipeline.png)
 
 
 ### The 2 Core Phases of RAG:
