@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local Vector Database storage files
+.chroma/
+chroma_db/
