@@ -1,4 +1,4 @@
-# Minimal Local RAG Pipeline
+# Simple Local RAG Pipeline
 
 A lightweight, 100% private, and local Retrieval-Augmented Generation (RAG) pipeline 
 built using Python, LangChain, ChromaDB, and Ollama. 
